@@ -26,6 +26,9 @@ navigation:
   - name: Home
     id: b17ce829-39f3-431b-b52c-03cad655025d
     type: content
+  - name: Services
+    id: ad717da4-a73d-42e3-a168-0233be2af7e0
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cfef591-a871-445e-96b4-27fc1c427f10.png
 title: Outside In Business Consultants
