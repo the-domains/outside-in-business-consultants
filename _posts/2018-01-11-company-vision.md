@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   We are pleased to meet with our clients at your location or any one of our
   locations.
-dateModified: '2018-01-11T01:30:09.123Z'
-datePublished: '2018-01-11T01:30:09.528Z'
+dateModified: '2018-01-11T01:41:50.836Z'
+datePublished: '2018-01-11T01:41:51.343Z'
 title: Company Vision
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-01-11-company-vision.md
 starred: false
 datePublishedOriginal: '2018-01-11T01:30:09.528Z'
-sourcePath: _posts/2018-01-11-company-vision.md
 url: company-vision/index.html
 _type: Article
 
