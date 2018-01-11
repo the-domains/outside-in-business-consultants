@@ -1,0 +1,83 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Outside In - Business Consultants
+layout_spectrum: 0.729175811400637
+typography_spectrum: 0.18268340965732932
+color:
+  brandStrength: 0.8889651221688837
+  lightness: 0.03136512963101268
+  saturation: 0.6078832601197064
+  rhythmicContrast: 0.07851185160689056
+  brandColors:
+    - '#D7D0CC'
+    - '#AAA2C3'
+    - '#EFDFEF'
+    - '#B9B1D5'
+    - '#FFFFFF'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19ecef8e-7694-4a41-a7dd-36a3409cbebe.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/19ecef8e-7694-4a41-a7dd-36a3409cbebe.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0615725-a6bb-4acd-92ad-f14c60b84ff6.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0615725-a6bb-4acd-92ad-f14c60b84ff6.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Outside In Business Consultants
+description: >-
+  Pointing Business Owners Towards Success Through Business Systems for
+  Excellence
+purpose:
+  - type: contact
+    url: 'mailto:info@2outsidein.com'
+    label: Contact us
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cfef591-a871-445e-96b4-27fc1c427f10.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a76bb72-fda7-4240-a584-a4467358d6a1.png
