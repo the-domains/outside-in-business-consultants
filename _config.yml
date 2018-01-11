@@ -1,12 +1,3 @@
-colors:
-  brandColors:
-    - 'hsl(0,0%,100%)'
-    - 'hsl(0,0%,80%)'
-    - 'hsl(0,0%,60%)'
-    - 'hsl(0,0%,30%)'
-    - 'hsl(0,0%,20%)'
-name: Outside In - Business Consultants
-layout_spectrum: 0.729175811400637
 typography_spectrum: 0.18268340965732932
 color:
   brandStrength: 0.8889651221688837
@@ -19,6 +10,25 @@ color:
     - '#EFDFEF'
     - '#B9B1D5'
     - '#FFFFFF'
+github: true
+layout_spectrum: 0.729175811400637
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a76bb72-fda7-4240-a584-a4467358d6a1.png
+name: Outside In - Business Consultants
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Home
+    id: b17ce829-39f3-431b-b52c-03cad655025d
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cfef591-a871-445e-96b4-27fc1c427f10.png
+title: Outside In Business Consultants
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -28,24 +38,22 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/080df31b-eaf7-4efe-a4d5-020cdf930de3.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-title: Outside In Business Consultants
 description: >-
   Pointing Business Owners Towards Success Through Business Systems for
   Excellence
@@ -53,8 +61,3 @@ purpose:
   - type: contact
     url: 'mailto:info@2outsidein.com'
     label: Contact us
-github: true
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cfef591-a871-445e-96b4-27fc1c427f10.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a76bb72-fda7-4240-a584-a4467358d6a1.png
